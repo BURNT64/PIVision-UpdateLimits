@@ -2,7 +2,7 @@
 
 ![Update PI Tag Attributes](https://github.com/BURNT64/PIVision-UpdateLimits/assets/88587722/acdb5d80-f63d-4f5c-950c-4f1e448d3971)
 
-This is a modified custom symbol for PI Vision displays, it lets users update all tag attributes directly from PI Vision rather than using PI System explorer, PI Vision communicates with System Explorer Via a tool called PI Web API. this was created for engineers at Tata Steel to be able to change asset limits without using the database
+This is a modified custom symbol for PI Vision displays, it lets users update all tag attributes directly from PI Vision rather than using PI System explorer, PI Vision communicates with System Explorer Via a tool called PI Web API. this was created for engineers at Tata Steel to be able to change asset limits without having to use the database software PI System Explorer.
 
 Follow these instructions to install this custom symbol; (Make sure PI Vision is installed on your system)
 
